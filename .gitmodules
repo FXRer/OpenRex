@@ -1,0 +1,15 @@
+[submodule "openrex-u-boot-2009.08"]
+	path = openrex-u-boot-2009.08
+	url = https://github.com/FEDEVEL/openrex-u-boot-2009.08.git
+[submodule "openrex-uboot-v2015.10"]
+	path = openrex-uboot-v2015.10
+	url = https://github.com/FEDEVEL/openrex-uboot-v2015.10.git
+[submodule "openrex-linux-3.0.35"]
+	path = openrex-linux-3.0.35
+	url = https://github.com/FEDEVEL/openrex-linux-3.0.35.git
+[submodule "openrex-linux-3.14"]
+	path = openrex-linux-3.14
+	url = https://github.com/FEDEVEL/openrex-linux-3.14.git
+[submodule "openrex-nxp-lpc13xx"]
+	path = openrex-nxp-lpc13xx
+	url = https://github.com/FEDEVEL/openrex-nxp-lpc13xx.git
